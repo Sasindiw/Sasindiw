@@ -1,10 +1,15 @@
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
+
 <h1 align="center">Hi 👋, I'm Sasindi Waragoda</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri Lanka | Software engineering Undergraduate  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasindiw&label=Profile%20views&color=0e75b6&style=flat" alt="sasindiw" /> </p>
 
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
+
+
 <hr>
 
-<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
@@ -14,13 +19,14 @@
 
 <hr>
 
-
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
 
 - 🌱 I’m currently learning **Frameworks**
 
 - 📫 How to reach me **sasindiw@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
 <p align="left">
 </p>
 
