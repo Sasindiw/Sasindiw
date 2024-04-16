@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sasindi Waragoda</h1>
 <h3 align="center">A passionate Full-Stack developer from Sri lanka</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sasindiw&label=Profile%20views&color=0e75b6&style=flat" alt="sasindiw" /> </p>
 
 <hr>
 
@@ -11,7 +12,7 @@
 
 <hr>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sasindiw&label=Profile%20views&color=0e75b6&style=flat" alt="sasindiw" /> </p>
+
 
 - 🌱 I’m currently learning **Frameworks**
 
