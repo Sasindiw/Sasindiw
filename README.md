@@ -2,7 +2,7 @@
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
 <br>
 <h1 align="center">Hi 👋, I'm Sasindi Waragoda</h1>
-<h3 align="center">A passionate Full-Stack developer from Sri Lanka | Software engineering Undergraduate  </h3>
+<h3 align="center">A passionate Web developer from Sri Lanka | Software engineering Undergraduate  </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sasindiw&label=Profile%20views&color=0e75b6&style=flat" alt="sasindiw" /> </p>
 <br>
 <img align="rights" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
