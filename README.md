@@ -2,7 +2,7 @@
 
 <br>
 
-🌱 I’m currently diving into Frameworks like React & Node.js
+🌱 I’m currently diving into Frameworks like React 
 
 📫 How to reach me: sasindiw@gmail.com
 
