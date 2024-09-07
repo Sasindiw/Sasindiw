@@ -18,6 +18,14 @@ Frameworks & Tools
 
 <br>
 💬 Let's Connect!
-<p align="center"> <a href="mailto:sasindiw@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/></a> <a href="https:www.linkedin.com/in/sasindi-waragoda><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a> <a href="https://github.com/sasindiw"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a> </p> <div align="center"> <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="2px" /> </div>
+<p align="center"> 
+  <a href="mailto:sasindiw@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="Gmail"/></a> 
+  <a href="https://www.linkedin.com/in/sasindi-waragoda"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a> 
+  <a href="https://github.com/sasindiw"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a> 
+</p> 
+<div align="center"> 
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="2px" /> 
+</div>
+
 
 
