@@ -5,11 +5,7 @@
 <h1 align="center">Hi there, I'm <span style="color:#e91e63;">Sasindi Waragoda</span> 👋</h1> 
 <h3 align="center">A Passionate Software Developer | Software Engineering Undergraduate 🎓</h3> 
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=sasindiw&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-  <img src="https://img.shields.io/github/followers/sasindiw?label=Followers&style=social" alt="GitHub Followers"/> 
-  <img src="https://img.shields.io/github/stars/sasindiw?style=social" alt="GitHub Stars"/> 
-</p> 
+
 
 
 <!-- Falling Flowers Animation -->
