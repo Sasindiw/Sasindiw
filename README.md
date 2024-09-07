@@ -12,6 +12,7 @@
 
 🛠️ My Skills
 <br>
+<br>
 Languages
 <div align="center"> <table> <tr> <td align="center" width="140"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="60" height="60"/> <br><strong>Java</strong> </td> <td align="center" width="140"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/> <br><strong>JavaScript</strong> </td> <td align="center" width="140"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="60" height="60"/> <br><strong>PHP</strong> </td> <td align="center" width="140"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="60" height="60"/> <br><strong>HTML5</strong> </td> <td align="center" width="140"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="60" height="60"/> <br><strong>CSS3</strong> </td> </tr> </table> </div>
 <br>
