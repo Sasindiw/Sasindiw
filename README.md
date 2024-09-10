@@ -1,5 +1,5 @@
 <!-- Upper wave design -->
-<img src="https://github.com/Sasindiw/Sasindiw/blob/main/upper_wave.png?raw=true" alt="upper wave" width="100%" style="margin-bottom: -5px;"/>
+<img src="https://github.com/Sasindiw/Sasindiw/blob/main/upper_wave.png?raw=true" alt="upper wave" width="100%" style="margin-bottom: 50%;"/>
 
 <div align="center" style="margin-top: -40px;">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="200px" alt="Coding" />
