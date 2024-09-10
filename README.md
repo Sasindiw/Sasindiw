@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="200px" alt="Coding" />
 </div>
@@ -8,7 +7,6 @@
 <p align="center" style="color: white;">
    I’m a Software Engineering undergraduate passionate about building web-based solutions and exploring new technologies.
 </p>
-
 
 🌱 I’m currently diving into frameworks like React.  
 📫 How to reach me: sasindiw@gmail.com
@@ -105,6 +103,8 @@
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="2px" />
 </div>
 
+<!-- Adding bottom wave design -->
+<img src="https://raw.githubusercontent.com/Sasindiw/Sasindiw/828e6404d0a03997954fdb932688a9b456e77ee7/layered-waves.svg" alt="bottom wave" width="100%"/>
 
 
 
