@@ -104,7 +104,7 @@
 </div>
 
 <!-- Adding bottom wave design -->
-<img src="https://raw.githubusercontent.com/Sasindiw/Sasindiw/828e6404d0a03997954fdb932688a9b456e77ee7/layered-waves.svg" alt="bottom wave" width="100%"/>
+<img src="" alt="bottom wave" width="100%"/>
 
 
 
