@@ -8,15 +8,12 @@
 <h1 align="center" style="color: white;">HEY, I'M <span style="color:#e91e63;">SASINDI WARAGODA</span></h1>
 
 <p align="center" style="color: white;">
-  I love coding in Java ☕! I’m a Software Engineering undergraduate passionate about building web-based solutions and exploring new technologies. Occasionally, I participate in hackathons and continuously strive to improve my skill set.
+   I’m a Software Engineering undergraduate passionate about building web-based solutions and exploring new technologies.
 </p>
 
-### ⚡ Fun facts:
 
-- 👯 I’m looking to collaborate on projects using Java or React.
-- 🌱 I’m currently learning mathematics required for AI and data science.
-- ✍️ I occasionally write blogs on various programming topics.
-- 🎵 I love to listen to country music and unwind.
+🌱 I’m currently diving into frameworks like React.  
+📫 How to reach me: sasindiw@gmail.com
 
 ### Let's Connect ☕
 <p align="center">
