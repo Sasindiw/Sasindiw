@@ -1,12 +1,9 @@
 
 
 <div align="center" style="margin-top: -40px;">
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="200px" alt="Coding" />
-
 
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200px" alt="Debugging" />
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200px" alt="Working on code" />
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200px" alt="Mind at Work" />
+
 </div>
 
 <h1 align="center" style="color: white; margin-top: -20px;">HEY, I'M <span style="color:#e91e63;">SASINDI WARAGODA</span></h1>
