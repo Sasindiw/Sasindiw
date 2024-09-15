@@ -2,16 +2,6 @@
 
 <div align="center" style="margin-top: -40px;">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200px" alt="Pink Girl Coding" />
-<img src="https://media.giphy.com/media/3o7TKzMOcOScYDGtCk/giphy.gif" width="200px" alt="Purple Coding Vibes" />
-<img src="https://media.giphy.com/media/ZbZAcD8BiVHpjJlW6P/giphy.gif" width="200px" alt="Purple Coder" />
-<img src="https://media.giphy.com/media/l378zKVk7Eh3yHoJi/giphy.gif" width="200px" alt="Coding in Style" />
-<img src="https://media.giphy.com/media/XD9o33QG9BoMis7iM4/giphy.gif" width="200px" alt="Girl Coding Purple" />
-
-
-
-
-
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px" alt="Girl Power Coding" />
 
 
