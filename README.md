@@ -2,6 +2,14 @@
 
 <div align="center" style="margin-top: -40px;">
 
+<img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200px" alt="Coding Vibes" />
+<img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px" alt="Girl Power Coding" />
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="200px" alt="Confident Coder" />
+<img src="https://media.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif" width="200px" alt="Happy Coder Girl" />
+<img src="https://media.giphy.com/media/l2JJKs3I69qfaQleE/giphy.gif" width="200px" alt="Excited Girl Coding" />
+
+
+
 <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200px" alt="Debugging" />
 
 </div>
