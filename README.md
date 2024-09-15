@@ -2,6 +2,16 @@
 
 <div align="center" style="margin-top: -40px;">
 
+ <img src="https://media.giphy.com/media/3o6UBfT5G7JX1PzBWS/giphy.gif" width="200px" alt="Happy Coding Cat" />
+    <img src="https://media.giphy.com/media/3o7aD9N0nFHlbW3JLs/giphy.gif" width="200px" alt="Coding Unicorn" />
+    <img src="https://media.giphy.com/media/3o6ZsT6XLOA8mMP2pk/giphy.gif" width="200px" alt="Cute Programmer" />
+    <img src="https://media.giphy.com/media/xUOxeZmbgnw7tnLjns/giphy.gif" width="200px" alt="Animated Code Snippets" />
+    <img src="https://media.giphy.com/media/3o6ZtlTQQiQxBe6MG4/giphy.gif" width="200px" alt="Coding Dog" />
+
+
+
+
+
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px" alt="Girl Power Coding" />
 
 
