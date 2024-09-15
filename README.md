@@ -6,10 +6,6 @@
 <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200px" alt="Girl Power Coding" />
 
 
-
-
-<img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200px" alt="Debugging" />
-
 </div>
 
 <h1 align="center" style="color: white; margin-top: -20px;">HEY, I'M <span style="color:#e91e63;">SASINDI WARAGODA</span></h1>
